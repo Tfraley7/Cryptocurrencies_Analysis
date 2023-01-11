@@ -44,7 +44,7 @@ The final deliverable for this project was to visualize the crypto currency resu
 
 <br/>
 <p align="center">
-  <img width="460" height="200" src="Images/3D.png">
+  <img width="460" height="400" src="Images/3D.png">
 </p>
 <br/>
 <br/>
